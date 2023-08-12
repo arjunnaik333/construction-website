@@ -28,7 +28,7 @@ const Home = () => {
           <em className="image_text">Construct your dream home</em>
           <em className="image_text2">Eminence Constructions</em>
           <em className="image_text3">&</em>
-          <em className="image_text4">Project Management Consultancy</em>
+          <em className="image_text4">Project Management Consultancy....</em>
 
           <img
             className="home_image"
