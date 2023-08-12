@@ -1,0 +1,16 @@
+.about_page {
+    float: right;
+}
+
+.about_text {
+        float: left;
+            width: 72%;
+}
+
+.about_video {
+    position: absolute;
+    right: 347px;
+    top: 323px;
+    width: 159px;
+    height: 280px;
+}

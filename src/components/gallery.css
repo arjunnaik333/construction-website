@@ -1,0 +1,28 @@
+.container {
+    display: grid;
+        max-width: 1086px;
+        grid-template-columns: repeat(3, 1fr);
+        width: 100%;
+        margin: auto;
+    }
+
+.gallery_image {
+width: auto;
+    height: 250px;
+    padding: 5px;
+}
+
+.gallery_video {
+        width: auto;
+            height: 150px;
+}
+
+.about_video {
+    position: absolute;
+        right: 347px;
+        top: 323px;
+        width: 159px;
+        height: 280px;
+}
+
+

@@ -1,0 +1,88 @@
+.home_image {
+    width: 100%;
+       
+}
+ 
+.image_text{
+font-size: 32px;
+    position: absolute;
+    top: 282px;
+    z-index: 50;
+    margin-left: 20px;
+    color: currentColor;
+    font-family: cursive;
+    font-weight: bold;
+    left: 556px;
+}
+
+.image_text2 {
+    font-size: 34px;
+        position: absolute;
+        top: 50px;
+        z-index: 50;
+        margin-left: 20px;
+        color: currentColor;
+        font-family: cursive;
+        font-weight: bold;
+        float: right;
+        left: 30px;
+}
+.image_text3 {
+font-size: 34px;
+    position: absolute;
+    top: 80px;
+    z-index: 50;
+    margin-left: 20px;
+    color: currentColor;
+    font-family: cursive;
+    font-weight: bold;
+    left: 250px;
+}
+.image_text4 {
+    font-size: 34px;
+        position: absolute;
+        top: 100px;
+        z-index: 50;
+        margin-left: 20px;
+        color: currentColor;
+        font-family: cursive;
+        font-weight: bold;
+        left: 30px
+}
+ 
+.image_btn{
+    position: relative;
+}
+
+.prev_btn {
+        position: absolute;
+            bottom: 50%;
+            left: 100px;
+            border-radius: 30px;
+                border: outset;
+}
+
+.next_btn {
+    position: absolute;
+        bottom: 50%;
+        right: 100px;
+        border-radius: 30px;
+            border: outset;
+}
+
+.image_slide {
+    width: 100%;
+    height: 265px;
+
+}
+
+.next_image {
+    width: 25px;
+    height: 20px;
+}
+
+.previous_image {
+    width: 25px;
+    height: 20px;
+}
+
